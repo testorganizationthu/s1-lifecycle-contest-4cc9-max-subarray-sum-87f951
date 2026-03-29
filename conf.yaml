@@ -2,5 +2,5 @@ folder: problem
 samples:
     - cases: '[1..4]'
 title:
-    en: Max Subarray Sum 87f951
+    en: Max Subarray Sum v2 dfa9
 version: 2
